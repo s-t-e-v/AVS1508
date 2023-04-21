@@ -76,8 +76,8 @@ On my GitHub repo, you can find some of my top repositories 📂 &nbsp;.
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.sbandaogo.com"><img src="https://img.shields.io/badge/-sbandaogo.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/steven-bandaogo-88532811b/?locale=en_US"><img src="https://img.shields.io/badge/-Steven%20Bandaogo-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.sbandaogo.com" target="_blank"><img src="https://img.shields.io/badge/-sbandaogo.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/steven-bandaogo-88532811b/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/-Steven%20Bandaogo-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-steven@sbandaogo.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <!-- <a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> -->
 <!-- <a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a> -->
