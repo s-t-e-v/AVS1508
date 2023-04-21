@@ -4,14 +4,14 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
 
+Hello there! My name is Steven.
+
+👨‍💻 &nbsp;I am a student in software engineering who aspires to reach the highest level of expertise in the industry. 🌱 As I constantly strive to enhance my skills, I am currently focusing on honing my skills in backend development, which is where my primary interest lies. However, 🔥 &nbsp;I also enjoy dabbling in frontend development, UI/UX and dev ops. I believe that having a well-rounded skill set is key to becoming a successful software engineer 🦾 &nbsp;.
+
+On my GitHub repo, you can find some of my top repositories.
+
+🙏 &nbsp;Thank you for taking the time to learn more about me and my passion for software engineering. Please feel free to explore my GitHub profile and 💬 &nbsp;contact me with any questions or feedback.
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -37,7 +37,7 @@
 ![XD]()
 ![Figma]()
 
-### :open_file_folder: &nbsp; Top repositories
+### 📂 &nbsp; Top repositories
 
 **Top**
 
