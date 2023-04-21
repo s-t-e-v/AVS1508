@@ -39,7 +39,7 @@ You can find below some of my top repositories 📂 &nbsp;.
 
 ### 📂 &nbsp;Top repositories
 
-**✨ &nbsp;Top**
+**<p align="center">✨ &nbsp;Top</p>**
 
 <a href="https://github.com/s-t-e-v/todolist2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=s-t-e-v&repo=todolist2&theme=buefy" />
@@ -51,7 +51,7 @@ You can find below some of my top repositories 📂 &nbsp;.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=s-t-e-v&repo=zozor-travel-diary&theme=buefy" />
   </a>
 
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> **React projects**
+**<p align="center"><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> React projects</p>**
 
 
 <a href="https://github.com/s-t-e-v/carousel-react">
@@ -65,7 +65,7 @@ You can find below some of my top repositories 📂 &nbsp;.
 </a>
 
 
-**🌐 &nbsp;Web**
+**<p align="center">🌐 &nbsp;Web</p>**
 
 <a href="https://github.com/s-t-e-v/car_rental">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=s-t-e-v&repo=car_rental&theme=buefy" />
@@ -83,7 +83,7 @@ You can find below some of my top repositories 📂 &nbsp;.
 <a href="https://github.com/s-t-e-v/zozor-travel-diary">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=s-t-e-v&repo=zozor-travel-diary&theme=buefy" /></a>
 
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> **Python projects**
+**<p align="center"><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> Python projects</p>**
 
 <a href="https://github.com/s-t-e-v/todolist2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=s-t-e-v&repo=todolist2&theme=buefy" />
