@@ -9,7 +9,7 @@ Hello there! My name is Steven.
 
 👨‍💻 &nbsp;I am a student in software engineering who aspires to reach the highest level of expertise in the industry. 🌱 As I constantly strive to enhance my skills, I am currently focusing on honing my skills in backend development, which is where my primary interest lies. However, 🔥 &nbsp;I also enjoy dabbling in frontend development, UI/UX and dev ops. I believe that having a well-rounded skill set is key to becoming a successful software engineer 🦾 &nbsp;.
 
-On my GitHub repo, you can find some of my top repositories.
+On my GitHub repo, you can find some of my top repositories 📂 &nbsp;.
 
 🙏 &nbsp;Thank you for taking the time to learn more about me and my passion for software engineering. Please feel free to explore my GitHub profile and 💬 &nbsp;contact me with any questions or feedback.
 
@@ -17,10 +17,10 @@ On my GitHub repo, you can find some of my top repositories.
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-05122A?)
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Fortran](https://img.shields.io/badge/-Fortran-05122)
+![Fortran](https://img.shields.io/badge/-Fortran-05122A?style=flat&logo=fortran)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
@@ -29,15 +29,15 @@ On my GitHub repo, you can find some of my top repositories.
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![BitBucket](https://img.shields.io/badge/-BitBucket-05)
+![BitBucket](https://img.shields.io/badge/-BitBucket-05122A?style=flat&)
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![XD]()
-![Figma]()
+![Xd](https://img.shields.io/badge/-Xd-05122A?style=flat&logo=adobe-xd)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
 
-### 📂 &nbsp; Top repositories
+### 📂 &nbsp;Top repositories
 
 **Top**
 
