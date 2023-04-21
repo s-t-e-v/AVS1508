@@ -1,8 +1,6 @@
 <!-- ![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg) -->
 
-<h2>Hey there! I'm Steven</h2>
-
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
+## 👋 &nbsp;Hey there! I'm Steven
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -39,12 +37,39 @@
 ![XD]()
 ![Figma]()
 
+### :open_file_folder: &nbsp; Top repositories
+
+**Top**
+
+- todolist2
+- product
+- Zozor
+
+**React projects**
+
+- carousel
+- quote-gen
+- faq-accordion
+
+**Web**
+
+- car rental
+- nft-preview card
+- qr-code-component
+- product-preview card
+- Zozor
+
+**Pyhton**
+
+- todolist2
+- jugement majoritaires
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/s-t-e-v">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=s-t-e-v&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=s-t-e-v&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=s-t-e-v&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=s-t-e-v&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
