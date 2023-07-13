@@ -42,6 +42,9 @@ You can find below some of my top repositories 📂 &nbsp;.
 **<p align="center">✨ &nbsp;Top</p>**
 
 <a href="https://github.com/s-t-e-v/todolist2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=s-t-e-v&repo=energy_management_system_front&theme=buefy" />
+  </a>
+<a href="https://github.com/s-t-e-v/todolist2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=s-t-e-v&repo=todolist2&theme=buefy" />
   </a>
 <a href="https://github.com/s-t-e-v/Product-preview-card-component">
@@ -53,7 +56,9 @@ You can find below some of my top repositories 📂 &nbsp;.
 
 **<p align="center"><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> React projects</p>**
 
-
+<a href="https://github.com/s-t-e-v/todolist2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=s-t-e-v&repo=energy_management_system_front&theme=buefy" />
+  </a>
 <a href="https://github.com/s-t-e-v/carousel-react">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=s-t-e-v&repo=carousel-react&theme=buefy" />
 </a>
