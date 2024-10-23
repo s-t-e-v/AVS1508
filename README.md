@@ -2,17 +2,6 @@
 
 ## 👋 &nbsp;Hey there! I'm Steven
 
-### 👨🏻‍💻 &nbsp;About Me
-
-
-Hello there! My name is Steven.
-
-👨‍💻 &nbsp;I am a student in software engineering who aspires to reach the highest level of expertise in the industry. 🌱 As I constantly strive to enhance my skills, I am currently focusing on honing my skills in backend development, which is where my primary interest lies. However, 🔥 &nbsp;I also enjoy dabbling in frontend development, UI/UX and dev ops. I believe that having a well-rounded skill set is key to becoming a successful software engineer 🦾 &nbsp;.
-
-You can find below some of my top repositories 📂 &nbsp;.
-
-🙏 &nbsp;Thank you for taking the time to learn more about me and my passion for software engineering. Please feel free to explore my GitHub profile and 💬 &nbsp;contact me with any questions or feedback.
-
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
